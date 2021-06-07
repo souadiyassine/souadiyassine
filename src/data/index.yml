@@ -1,0 +1,85 @@
+meta:
+  title: SOUADI Yassine - Developer Full-Stack
+  description: My name is SOUADI Yassine. I am a passionate Full-Stack developer. Now, I'm working at Capgemini.
+
+side:
+  logo: SY
+  name: SOUADI Yassine
+  job: Developer Full-Stack
+  location: Casablanca, Morocco
+  image: images/SOUADI_Yassine.png
+
+company: Capgemini
+
+learning: Dart & Flutter
+
+about:
+  - My name is SOUADI Yassine. I am a passionate Full-Stack developer.
+  - My passion is to discover technologies by creating demos to learn.
+  - I'm currently working at Capgemini. My role is to lead my team and also architect and build client side projects.
+
+skills:
+  description:
+    - Despite the years I have spent as a developer, I consider myself to be a beginner learning new technologies.
+    - But with experience, I acquired certain skills that I appreciated during my career
+
+  categories:
+    - name: 'Languages'
+      list:
+        - HTML 5
+        - CSS 3 (SCSS, Stylus)
+        - Javascript (ES6) / Typescript
+        - Dart
+        - C#
+
+    - name: 'Frameworks & libraries'
+      list:
+        - React JS
+        - React Native
+        - Redux (Redux Saga & Redux Thunk & Redux Toolkit)
+        - Jquery
+        - Node.js (Express)
+        - Node.js (Nest)
+        - Vue JS
+        - Bootstrap & Antd design & Chakra ui & Material ui
+        - Next.js
+        - Tailwind CSS
+        - Net Core
+    
+    - name: 'Tools & Editors'
+      list:
+        - Npm & Yarn
+        - VsCode
+        - Eslint
+        - VsStudio
+        - Sonar
+
+    - name: 'Other technologies'
+      list:
+        - MongoDB
+        - Github
+        - Docker
+        - Photoshop
+        - Figma
+        - Gitlab
+
+experiences:
+  - company: Capgemini
+    job: Full-Stack developer
+    period:
+      - Dec 2019
+      - Present
+
+  - company: Flyer.ma
+    job: Front-end developer
+    period:
+      - Feb 2018
+      - Dec 2019
+
+  - company: HR Consulting
+    job: Front-end developer
+    period:
+      - Sep 2017
+      - Feb 2018
+
+contact: true
