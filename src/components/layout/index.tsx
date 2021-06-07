@@ -37,6 +37,7 @@ const Header = ({ children }: Props): React.ReactElement => (
                     <LinkedIn width={32} height={32} fill="#FFFFFF" className="inline-block align-middle" />
                 </a>&nbsp;
             </nav>
+            
         </footer>
     </main>
 );
