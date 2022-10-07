@@ -1,22 +1,24 @@
 meta:
   title: SOUADI Yassine - Developer Full-Stack
-  description: My name is SOUADI Yassine. I am a passionate Full-Stack developer. Now, I'm working at Capgemini.
+  description: My name is SOUADI Yassine. I am a passionate Full-Stack developer. Now, I'm working at Vo2 Group.
 
 side:
   logo: SY
   name: SOUADI Yassine
-  job: Developer Full-Stack
+  job: Fullstack Developer Senior (React / React native / Node) [JS]
+  email: Email jobs.souadiyassine@gmail.com
+  link: https://www.linkedin.com/in/yassine-souadi-753430146/
   location: Casablanca, Morocco
   image: images/SOUADI_Yassine.png
 
-company: Capgemini
+company: Vo2 Group
 
-learning: Dart & Flutter
+learning: WEB 3
 
 about:
   - My name is SOUADI Yassine. I am a passionate Full-Stack developer.
   - My passion is to discover technologies by creating demos to learn.
-  - I'm currently working at Capgemini. My role is to lead my team and also architect and build client side projects.
+  - I'm currently working at Vo2 Group. My role is to lead my team and also architect and build client side projects.
 
 skills:
   description:
@@ -24,15 +26,14 @@ skills:
     - But with experience, I acquired certain skills that I appreciated during my career
 
   categories:
-    - name: 'Languages'
+    - name: "Languages"
       list:
         - HTML 5
         - CSS 3 (SCSS, Stylus)
         - Javascript (ES6) / Typescript
-        - Dart
-        - C#
+        - Node JS
 
-    - name: 'Frameworks & libraries'
+    - name: "Frameworks & libraries"
       list:
         - React JS
         - React Native
@@ -45,8 +46,8 @@ skills:
         - Next.js
         - Tailwind CSS
         - Net Core
-    
-    - name: 'Tools & Editors'
+
+    - name: "Tools & Editors"
       list:
         - Npm & Yarn
         - VsCode
@@ -54,7 +55,7 @@ skills:
         - VsStudio
         - Sonar
 
-    - name: 'Other technologies'
+    - name: "Other technologies"
       list:
         - MongoDB
         - Github
@@ -64,11 +65,17 @@ skills:
         - Gitlab
 
 experiences:
+  - company: VO2 Group
+    job: Fullstack Developer Senior (React / React Native / Node) [JS]
+    period:
+      - Oct 2021
+      - Present
+
   - company: Capgemini
-    job: Full-Stack developer
+    job: Fullstack Developer Senior (React / Node) [JS]
     period:
       - Dec 2019
-      - Present
+      - Oct 2021
 
   - company: Flyer.ma
     job: Front-end developer
